@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=christopheryesaya&label=Profile%20Views&color=1D4ED8&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Chrisyesaya&label=Profile%20Views&color=1D4ED8&style=flat" alt="Profile Views"/>
 
 <br/><br/>
 
@@ -90,27 +90,17 @@ currently: "Developing Flutter & Laravel applications on SQL Server–based mult
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=christopheryesaya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopheryesaya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Chrisyesaya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisyesaya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=christopheryesaya&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chrisyesaya&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=christopheryesaya&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chrisyesaya&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%"/>
 
-</div>
-
-> ⚠️ Replace `christopheryesaya` in every widget URL above with your actual GitHub username so the stats render correctly.
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=christopheryesaya&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 </div>
 
 ---
@@ -118,13 +108,13 @@ currently: "Developing Flutter & Laravel applications on SQL Server–based mult
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/christopheryesaya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:christopher.yesayas@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://www.linkedin.com/in/christopheryesaya/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
