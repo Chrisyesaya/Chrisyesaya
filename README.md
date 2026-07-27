@@ -1,16 +1,20 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:0EA5E9&height=220&section=header&text=Christopher%20Yesaya%20Susanto&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:0EA5E9&height=220&section=header&text=Christopher%20Yesaya%20Susanto&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20Engineer%20%7C%20Full%20Stack%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1D4ED8&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Software+Engineer;Informatics+Graduate;Flutter+%26+Laravel+Enthusiast;AI-Assisted+Coding+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1D4ED8&center=true&vCenter=true&width=650&lines=Mobile+Engineer+(Flutter);Full+Stack+Engineer;Software+Engineer;Informatics+Graduate+%40+UBM;AI-Assisted+Coding+Practitioner" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=christopheryesaya&label=Profile%20Views&color=1D4ED8&style=flat" alt="Profile Views"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/SVG/Bottom_stroke2.svg" width="100%"/>
 
 </div>
 
@@ -20,20 +24,25 @@
 
 ```yaml
 name: "Christopher Yesaya Susanto"
-role: "Full Stack Engineer / Software Engineer"
-education: "Informatics Graduate"
+strongest_field: "Mobile Engineer (Flutter)"
+also_skilled_in: "Full Stack Engineer / Software Engineer"
+education:
+  university: "Universitas Bunda Mulia"
+  major: "Informatics"
+  gpa: "3.8+ / 4.0"
 focus:
-  - "Building end-to-end software solutions (web & mobile)"
-  - "Writing clean, structured, and efficient code"
-  - "Leveraging AI to accelerate the development cycle"
-currently: "Building Flutter & Laravel applications on a multi-database architecture"
+  - "Building end-to-end mobile & web software solutions"
+  - "Writing clean, structured, and maintainable code"
+  - "Leveraging AI tools to accelerate the development cycle"
+currently: "Developing Flutter & Laravel applications on SQL Server–based multi-database architecture"
 ```
 
-- 🎓 **Informatics Graduate** with hands-on work and internship experience in software development (web & mobile)
-- 💻 Focused on **end-to-end development** — from database design and backend APIs to application UI/UX
-- ⚡ Experienced in **AI-Assisted Coding** (GitHub Copilot, ChatGPT, Cursor) to speed up the development workflow
-- 🌱 Continuously learning best practices in software engineering and clean architecture
-- 📫 Open to collaboration on projects as well as new career opportunities
+- 📱 Strongest in **Mobile Engineering** with Flutter, backed by solid full-stack web development experience
+- 🎓 **Informatics Graduate** from **Universitas Bunda Mulia**, GPA **3.8+**
+- 💻 Comfortable across the full development cycle — database design, backend APIs, and mobile/web UI
+- ⚡ Actively uses **AI-Assisted Coding** (Claude, DeepSeek, GitHub Copilot, ChatGPT, OpenCode) to work faster and smarter
+- 🗄️ Experienced working directly with **SQL Server (SSMS)** for backend data management
+- 📫 Open to collaboration on projects and new career opportunities
 
 ---
 
@@ -52,16 +61,19 @@ currently: "Building Flutter & Laravel applications on a multi-database architec
 
 ### Database
 <p align="left">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SSMS"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
 </p>
 
 ### AI-Assisted Productivity
 <p align="left">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek"/>
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=terminal&logoColor=white" alt="OpenCode"/>
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
 </p>
 
 ### Tools & Workflow
@@ -85,9 +97,21 @@ currently: "Building Flutter & Laravel applications on a multi-database architec
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=christopheryesaya&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=christopheryesaya&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%"/>
+
 </div>
 
-> ⚠️ Replace `christopheryesaya` above with your actual GitHub username so the stats widgets render correctly.
+> ⚠️ Replace `christopheryesaya` in every widget URL above with your actual GitHub username so the stats render correctly.
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=christopheryesaya&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+</div>
 
 ---
 
