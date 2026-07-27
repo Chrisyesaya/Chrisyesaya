@@ -8,14 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1D4ED8&center=true&vCenter=true&width=650&lines=Mobile+Engineer+(Flutter);Full+Stack+Engineer;Software+Engineer;Informatics+Graduate+%40+UBM;AI-Assisted+Coding+Practitioner" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Chrisyesaya&label=Profile%20Views&color=1D4ED8&style=flat" alt="Profile Views"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/SVG/Bottom_stroke2.svg" width="100%"/>
-
 </div>
 
 ---
@@ -83,25 +75,6 @@ currently: "Developing Flutter & Laravel applications on SQL Server–based mult
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Chrisyesaya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisyesaya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chrisyesaya&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chrisyesaya&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%"/>
-
-</div>
 
 ---
 
