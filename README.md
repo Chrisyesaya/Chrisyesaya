@@ -10,8 +10,8 @@
 
 ### Christopher Yesaya Susanto
 
-**Mobile engineer** who works the whole stack. Flutter on the screen, Laravel and SQL Server behind it.
-Informatics, Universitas Bunda Mulia · GPA 3.8+ · currently Flutter & Laravel Developer (internship) at PT Gaya Makmur Tractors.
+**Software engineer** shipping production systems end to end: Flutter apps, Laravel APIs on SQL Server, and machine-learning models.
+Currently building internal products at PT Gaya Makmur Tractors.
 
 | Mobile | Backend | Data & AI |
 |---|---|---|
