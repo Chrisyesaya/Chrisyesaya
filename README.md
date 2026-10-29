@@ -20,7 +20,7 @@ Informatics, Universitas Bunda Mulia · GPA 3.8+ · currently Flutter & Laravel 
 | Camera & barcode scanning | SQL Server (SSMS) · MySQL · PostgreSQL | Streamlit dashboards |
 
 **Selected work** — CDM (customer data management) · Warehouse Barcode Scanner · Sparepart & Sales Forum · Spare-part Demand Forecast · TB Detection on chest X-rays.
-Details, live previews and a playable arcade (Snake, Breakout, Pong) are on **[chrisyesaya.github.io](https://chrisyesaya.github.io)**.
+Details and visuals for each project are on **[chrisyesaya.github.io](https://chrisyesaya.github.io)**.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chrisyesaya/Chrisyesaya/output/github-snake-dark.svg"/>
